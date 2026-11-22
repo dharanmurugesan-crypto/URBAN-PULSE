@@ -1,0 +1,11 @@
+URBAN PULSE - DATA CLEANING LOG
+--------------------------------
+Original rows: 100000
+Duplicates removed: 0
+Final rows: 100000
+Final columns: 18
+Date columns converted.
+Text columns trimmed.
+Coordinates converted to numeric.
+Resolution hours calculated.
+Date-based columns created.
